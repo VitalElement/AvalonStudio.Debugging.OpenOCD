@@ -1,8 +1,0 @@
-{
-  "Name": "AvalonStudio.Debugging.OpenOCD",
-  "Description": "OpenOCD Debug Adaptor",
-  "RepoUrl": "https://github.com/VitalElement/AvalonStudio.Debugging.OpenOCD.git",
-  "Tags": [
-    "Win32-Slow-v0.01-0.9.0"
-  ]
-}
